@@ -22,7 +22,7 @@ Tours - 2016 - 700 heures intensives
 
 
 
-<a href="https://twitter.com/sullyvan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/sullyvan__dev?logo=twitter&style=for-the-badge" alt="Sullyvandev" /></a> </p>
+<a href="https://twitter.com/sullyvan_dev" target="blank"><img src="(https://img.shields.io/twitter/follow/sullyvan_dev?style=social" alt="Sullyvandev" /></a> </p>
 
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
