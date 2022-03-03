@@ -27,7 +27,7 @@ Tours - 2016 - 700 heures intensives
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
-- 🔭 I’m currently working on [Building my audience](https://twitter.com/sullyvan_dev)
+- 🔭 I’m currently active on [LinkedIn](https://www.linkedin.com/in/sullyvan-vrt-7624b8127/)
 
 - 👨‍💻 All of my projects are available at https://sullyvanvriet.fr/
 
