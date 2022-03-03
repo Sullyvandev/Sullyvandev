@@ -14,7 +14,7 @@ Paris - 2021 - 700 heures intensives
 
 <h4 align="center"> - 📖 <a href="https://sullyvanvriet.fr/#" target="_blank" rel="noopener" > Titre Professionnel Développeur Intégrateur Web et Infographiste 2016
 Cefim - Labellisée Grande Ecole du Numérique
-Tours - 2016 - 700 heures intensives
+Paris - 2016 - 700 heures intensives
 -> 5 mois de : HTML5/CSS3/JavaScript/PHP/MySQL
 -> 1 mois de : Angular, Ionic, Wordpress
  </a> </h4>
