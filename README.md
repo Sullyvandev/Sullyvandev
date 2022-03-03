@@ -29,7 +29,7 @@ Tours - 2016 - 700 heures intensives
 
 - 🔭 I’m currently working on [Building my audience](https://twitter.com/sullyvan_dev)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sullyvandev?tab=repositories](https://github.com/Sullyvandev?tab=repositories) and https://sullyvanvriet.fr/
+- 👨‍💻 All of my projects are available at https://sullyvanvriet.fr/
 
 <h3 align="left">Languages and Tools:</h3>
 
