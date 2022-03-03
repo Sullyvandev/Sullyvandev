@@ -17,7 +17,7 @@ Cefim - Labellisée Grande Ecole du Numérique
 Tours - 2016 - 700 heures intensives
 -> 5 mois de : HTML5/CSS3/JavaScript/PHP/MySQL
 -> 1 mois de : Angular, Ionic, Wordpress
--> 1 mois de projet : https://projet-o-en-couleurs-front.vercel.app/ </a> </h4>
+ </a> </h4>
 
 
 
