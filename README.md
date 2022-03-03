@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sullyvan Vriet<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">Développeur web React</h3>
+<h3 align="center">Développeur Front</h3>
 
 <h3 align="center">J'ai entrepris une reconversion professionnelle et j'ai choisi de rejoindre l'école O'Clock qui m'a fourni toutes les bases et principes fondamentaux ainsi qu'une structure d'apprentissage reconnue pour obtenir le titre de développeur web et web mobile.</h3>
 
