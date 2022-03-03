@@ -57,3 +57,6 @@ Tours - 2016 - 700 heures intensives
 
 
 </p>
+
+
+<h3 align="center">Open To Work</h3>
