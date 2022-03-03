@@ -22,14 +22,14 @@ Tours - 2016 - 700 heures intensives
 
 
 
-<a href="https://twitter.com/sullyvan_dev" target="blank"><img src="(https://img.shields.io/twitter/follow/sullyvan_dev?style=social" alt="Sullyvandev" /></a> </p>
+<a href="https://twitter.com/sullyvan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/sullyvan_dev?style=social" alt="Sullyvandev" /></a> </p>
 
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
 - 🔭 I’m currently working on [Building my audience](https://twitter.com/sullyvan_dev)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sullyvandev](https://github.com/Sullyvandev) and https://sullyvanvriet.fr/#
+- 👨‍💻 All of my projects are available at [https://github.com/Sullyvandev](https://github.com/Sullyvandev) and https://sullyvanvriet.fr/
 
 <h3 align="left">Languages and Tools:</h3>
 
